@@ -1,14 +1,4 @@
 package kr.dja.BackwardOper.Core;
-/*
-* 스택을 활용한 후위표기법 계산기.
-* 1661030 엄선용
-* 
-* 메인 메서드, 주요 연산 메서드 부분.
-*/
-/*
-* 5월 2일 수정
-* 연산 과정 표시
-*/
 import java.util.Scanner;
 import kr.dja.BackwardOper.Operator.ABS_CalMember;
 import kr.dja.BackwardOper.Operator.ABS_Calculer;
