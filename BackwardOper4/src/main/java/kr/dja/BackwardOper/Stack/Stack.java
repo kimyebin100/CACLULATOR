@@ -1,12 +1,4 @@
 package kr.dja.BackwardOper.Stack;
-/*
-* 스택 클래스. 
-* 연결 리스트를 베이스로 구성하여 동적인 확장 가능.
-*/
-/*
-* 5월 2일 버그 수정
-* 인덱스 로 스택 멤버에 접근할 때 잘못 접근되던 문제를 수정
-*/
 public final class Stack<T>
 {
 private final int slotSize;
